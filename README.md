@@ -48,12 +48,7 @@
 <br clear="both">
 
 
- <div align="center">
-  ### 🐍 My GitHub Activity Snake
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/divit-aggarwal/divit-aggarwal/main/output/snake-dark.svg">
-    <img src="https://raw.githubusercontent.com/divit-aggarwal/divit-aggarwal/main/output/snake.svg" alt="Snake animation showing GitHub contributions" />
-  </picture>
-</div>
+ <img src="https://raw.githubusercontent.com/divit-aggarwal/divit-aggarwal/output/snake.svg" alt="Snake animation" />
 
+###
 ###
