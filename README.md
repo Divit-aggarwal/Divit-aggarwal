@@ -49,7 +49,11 @@
 
 
  <div align="center">
-  <img src="https://raw.githubusercontent.com/divit-aggarwal/divit-aggarwal/main/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  ### 🐍 My GitHub Activity Snake
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/divit-aggarwal/divit-aggarwal/main/output/snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/divit-aggarwal/divit-aggarwal/main/output/snake.svg" alt="Snake animation showing GitHub contributions" />
+  </picture>
 </div>
 
 ###
