@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! , I am   Divit Aggarwal and I'm a Aspiring Data Scientist , from India 🇮🇳</h2>
+<h2 align="center">Hi 👋! , I am   Divit Aggarwal and I'm a AI Engineer and Applied Data Scientist , from India 🇮🇳</h2>
 
 ###
 
